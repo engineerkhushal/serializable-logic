@@ -1,0 +1,24 @@
+{
+  "author": "Khushal Khan",
+  "description": "A driver json",
+  "version": "0.1",
+  "structure": [
+    {
+      "label": "start",
+      "instructionType": "simple",
+      "instruction": "console.log('hello world');",
+      "jumpCondition": null,
+      "truthyLabel": null,
+      "falsyLabel": null,
+      "subInstructions": null
+    }, {
+      "label": null,
+      "instructionType": "simple",
+      "instruction": "console.log('yet another world');",
+      "jumpCondition": null,
+      "truthyLabel": null,
+      "falsyLabel": null,
+      "subInstructions": null
+    }
+  ]
+}
